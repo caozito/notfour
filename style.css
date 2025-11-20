@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    background-color: #39394d;
+    font: normal 15pt Arial;
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+a:visited {
+    color: #9cfff0;
+}
+
+header#name, nav#navbar1 {
+    margin: 0;
+    width: 100%;
+    line-height: 0;
+    padding: 3px;
+    background-color: #5112ff;
+    text-align: center;
+}
+
+section#content {
+    padding-top: 15px;
+}
